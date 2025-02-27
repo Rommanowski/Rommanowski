@@ -27,3 +27,5 @@
 🚀 Check out my channel!]  
 https://www.youtube.com/@JakubRomanowski-b2b
 
+
+![Snake animation](https://github.com/Rommanowski/Rommanowski/blob/output/github-contribution-grid-snake.svg)
