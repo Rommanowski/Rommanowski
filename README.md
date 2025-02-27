@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi there! I'm Jakub
 
-<!--
-**Rommanowski/Rommanowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Gdańsk University of Technology, passionate about Data Science & Machine Learning
+🧠 Member of the "Gradient" Scientific Club
+💡 Currently working on a drawing recognition game using CNNs
+🚀 Exploring PyTorch, interested in image processing 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech & Tools
+
+🔹 Python, PyTorch, Flask, Pandas
+🔹 C, C++, SDL
+🔹 Javascript, JQuery, PHP
+🔹 Git, Linux
+
+📌 My Projects
+
+🎨 🎮 Drawing Recognition Game – AI-powered game that guesses your drawings
+🖼️ 🛠️ Image Gallery in PHP – A simple web-based image gallery
+🐍 🎮 Snake Game (C++ & SDL) – Classic snake game with modern implementation
+🐸 🎮 Jumping Frog Game (C & ncurses) – Terminal-based arcade game
+🚀 🤖 Other Interesting Projects
+
+📬 Want to chat about ML? Feel free to reach out!
