@@ -21,4 +21,4 @@
 🐸 🎮 Jumping Frog Game (C & ncurses) – Terminal-based arcade game
 🚀 🤖 Other Interesting Projects
 
-📬 Want to chat about ML? Feel free to reach out!
+📬 Want to chat? Feel free to reach out!
