@@ -15,10 +15,10 @@
 
 📌 My Projects
 
-🎨 🎮 Drawing Recognition Game – AI-powered game that guesses your drawings  
-🖼️ 🛠️ Image Gallery in PHP – A simple web-based image gallery  
-🐍 🎮 Snake Game (C++ & SDL) – Classic snake game with modern implementation  
-🐸 🎮 Jumping Frog Game (C & ncurses) – Terminal-based arcade game  
+🎨 🎮 Drawing Recognition Game – AI-powered game that guesses your drawings (similar to Google's 'Quick, Draw!'    
+🖼️ 🛠️ Image Gallery in PHP – A web-based image gallery, with databse, user's and AJAX photo search bar    
+🐍 🎮 Snake Game (C++ & SDL) – Classic snake game with two types of bonuses and game speedup    
+🐸 🎮 Jumping Frog Game (C & ncurses) – Terminal-based arcade game, with saving and replaying games, and score ranking    
 🚀 🤖 Other Interesting Projects  
 
 📬 Want to chat? Feel free to reach out!
