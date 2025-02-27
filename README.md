@@ -22,3 +22,8 @@
 🚀 🤖 Other Interesting Projects  
 
 📬 Want to chat? Feel free to reach out!
+
+
+🚀 Check out my channel!]  
+https://www.youtube.com/@JakubRomanowski-b2b
+
